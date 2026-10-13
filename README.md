@@ -1,4 +1,4 @@
-# ISM2411 - Python for Business
+#ISM2411 - Python For Business
 
 **Name: ** Noah Benlolo
 
