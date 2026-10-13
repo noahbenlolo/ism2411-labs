@@ -1,6 +1,6 @@
-#ISM2411 - Python For Business
+# ISM2411 - Python For Business
 
-**Name: ** Noah Benlolo
+**Name:** Noah Benlolo
 
 **Semester:** Fall 2026
 
